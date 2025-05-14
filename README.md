@@ -8,6 +8,8 @@ My name is Nia and I love a good problem
   <li>🧠 Clinical (Neuro)psychology enthusiast at heart</li>
 </ul>
 
+If you're open to collaborating on a project, reach out on <a href="https://www.linkedin.com/in/niafajota">LinkedIn</a>
+
 <!--
 **niafajota/niafajota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
