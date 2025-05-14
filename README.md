@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi! Welcome to my GitHub 🌱
+<br></br>
+My name is Nia and I love a good problem
+<ul>
+  <li>🚀 Product specialist and aspiring founder</li>
+  <li>💡 Experience in healthtech, pharma, and FMCG</li>
+  <li>💻 Currently strengthening my technical skills</li>
+  <li>🧠 Clinical (Neuro)psychology enthusiast at heart</li>
+</ul>
 
 <!--
 **niafajota/niafajota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
